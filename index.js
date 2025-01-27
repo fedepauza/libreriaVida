@@ -51,8 +51,8 @@ function createCard ({id, producto, descripcion, precio, stock, imagen}) {
     card.append(img, name, description, price, stockDOM, button)
 
     button.addEventListener('click', () => {
+        if (stock > 0) {
         let index = carritoDOM.findIndex((producto) => producto.id == id)
-        // let cantidad = 1
 
         if (index == -1) {
             carritoDOM.push({
@@ -64,72 +64,36 @@ function createCard ({id, producto, descripcion, precio, stock, imagen}) {
             carritoDOM[index].cantidad += 1
         }
 
-        actualizadoraCarrito()
+        stock -= 1
+        stockDOM.innerText = 'Stock: ' + stock
 
+        actualizadoraCarrito()
+        
         swal.fire({
             position: "top-end",
             icon: "success",
-            title: producto + " se agrego correctamente",
+            title: producto + " se agregó correctamente",
             width: 400,
             showConfirmButton: false,
             timer: 1500,
             timerProgressBar: true,
             toast: true,
-            });
-    })
+        })
+    } else {
+        swal.fire({
+            position: "center",
+            icon: "error",
+            title: "Ups! No hay stock disponible de " + producto,
+            width: 500,
+            showConfirmButton: true,
+            timerProgressBar: true,
+        })
+    }
+})
 
     productos.appendChild(card)
 
 }
-
-// function actualizadoraCarrito () {
-    
-//     ticket.innerHTML = ''
-
-//     localStorage.setItem("ticketFinal", JSON.stringify(carritoDOM))
-    
-//     carritoDOM.forEach( el => {
-
-//         const {producto, precio, cantidad} = el
-
-//         const item = document.createElement('div')
-//         item.classList.add('ticketFinal')
-        
-//         const container = document.createElement('h2')
-//         const name = document.createElement('p')
-//         const price = document.createElement('p')
-//         const cantidadDom = document.createElement('p')
-
-//         container.classList.add('container')
-//         name.classList.add('name')
-//         price.classList.add('price')
-//         cantidadDom.classList.add('cantidad')
-        
-//         name.innerText = producto
-//         price.innerText = `$${precio}`
-//         cantidadDom.innerText = cantidad
-        
-//         container.append(name, price, cantidadDom)
-//         item.appendChild(container)
-
-//         ticket.appendChild(item)
-//     })
-    
-//     let totalFinal = carritoDOM.reduce((acc, el) => acc + el.precio * el.cantidad, 0)
-
-    
-//     const totalElement = document.createElement("p")
-//     totalElement.classList.add("total")
-//     totalElement.innerText = `Total: $${totalFinal}`
-
-//     const botonComprar = document.createElement('button');
-//     botonComprar.classList.add('botonComprar');
-//     botonComprar.innerText = 'Comprar'
-    
-
-//     ticket.appendChild(botonComprar)
-//     ticket.appendChild(totalElement)
-// }
 
 function actualizadoraCarrito () {
     
@@ -159,7 +123,7 @@ function actualizadoraCarrito () {
         
         name.innerText = producto
         price.innerText = `$${precio}`
-        cantidadDom.innerText = cantidad
+        cantidadDom.innerText = `${cantidad}Ud.`
         botonComprar.innerText = 'Comprar'
         
         container.append(name, price, cantidadDom)

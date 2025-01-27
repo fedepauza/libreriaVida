@@ -80,84 +80,84 @@
         "id": 10
     },
     {
-        "producto": "Faber-castell",
-        "descripcion": "Lapices de colores x24",
-        "precio": 10000,
-        "stock": 100,
-        "imagen": "https://ss-static-01.esmsv.com/id/92679/productos/obtenerimagen/?id=5556&useDensity=false&width=1280&height=720&tipoEscala=contain",
-        "id": 1
+        "producto": "Fibrones Sharpie",
+        "descripcion": "Punta fina",
+        "precio": 90000,
+        "stock": 120,
+        "imagen": "https://acdn.mitiendanube.com/stores/443/533/products/d_658965-mla44891661331_022021-o-0e45104e67fbfa4ee916598042629351-1024-1024.jpg",
+        "id": 11
     },
     {
-        "producto": "Tijera maped",
-        "descripcion": "Tijera escolar",
-        "precio": 2500,
-        "stock": 50,
-        "imagen": "https://shoppicture.ww-api.com/pretty_pict/v1/800x450/50x50/v1/commerce_pict/3908698/1732231873354_3403291/1.png",
-        "id": 2
+        "producto": "Calculadora Casio",
+        "descripcion": "Calculadora cientifica",
+        "precio": 25000,
+        "stock": 10,
+        "imagen": "https://libreriairbe.com/wp-content/uploads/2021/09/Calculadora-Cientifica-CASIO-fx-570ES-PLUS-Segunda-Edicion.jpg",
+        "id": 12
     },
     {
-        "producto": "Lapicera bic",
-        "descripcion": "Trazo fino",
+        "producto": "Resaltador Stabilo",
+        "descripcion": "Color pastel x15",
         "precio": 1500,
-        "stock": 150,
-        "imagen": "https://acdn.mitiendanube.com/stores/001/312/307/products/bic-presicion-azul-011-4ac3fc3274b6ce528516854928401873-1024-1024.png",
-        "id": 3
+        "stock": 40,
+        "imagen": "https://www.officedepot.co.cr/medias/37470.jpg-1200ftw?context=bWFzdGVyfHJvb3R8NTI3MzIyfGltYWdlL2pwZWd8YUdaaUwyaGtaUzh4TURFek5EZzFPREl3TXpFMk5pOHpOelEzTUM1cWNHZGZNVEl3TUdaMGR3fDg1Y2M2ZWQzMTU4NzI1ODQ1NTY4ZDNjNmQxMDM4MGYxMjE4MGQzMDJkNGI5NDRlYTkxZDljZmVmYzVkMThjMDc",
+        "id": 13
     },
     {
-        "producto": "Cuaderno",
-        "descripcion": "Cuaderno universitario",
-        "precio": 5000,
-        "stock": 200,
-        "imagen": "https://cdn.dimerc.cl/media/catalog/product/cache/1/thumbnail/x600/040ec09b1e35df139433887a97daa66f/c/l/cl_h380920_1.jpg",
-        "id": 4
+        "producto": "Diccionario Oxford",
+        "descripcion": "Diccionario de ingles Pocket",
+        "precio": 50000,
+        "stock": 5,
+        "imagen": "https://www.papelcruz.com/wp-content/uploads/2024/07/1000140030.jpg",
+        "id": 14
     },
     {
-        "producto": "Corrector",
-        "descripcion": "Corrector liquido",
-        "precio": 3000,
+        "producto": "Mochila Batman",
+        "descripcion": "Mocihla escolar",
+        "precio": 30000,
+        "stock": 20,
+        "imagen": "https://vasari.vteximg.com.br/arquivos/ids/229372-1000-1000/EME176777-NG.jpg?v=638458509579900000",
+        "id": 15
+    },
+    {
+        "producto": "Hojas rivadavia",
+        "descripcion": "Ralladas x96",
+        "precio": 7500,
         "stock": 100,
-        "imagen": "https://www.verquiperu.com/cdn/shop/files/WQFQFQW_800x.jpg?v=1688524571",
-        "id": 5
+        "imagen": "https://http2.mlstatic.com/D_891148-MLU78213459211_082024-C.jpg",
+        "id": 16
     },
     {
-        "producto": "Regla",
-        "descripcion": "Regla de 30cm",
+        "producto": "Acuarelas faber-castell",
+        "descripcion": "Acuarelas escolares",
+        "precio": 1300,
+        "stock": 30,
+        "imagen": "https://libreriairbe.com/wp-content/uploads/2020/04/Set-12-Acuarelas-en-Pastillas-con-Pincel-Faber-Castell-Vista.jpg",
+        "id": 17
+    },
+    {
+        "producto": "Cartulina",
+        "descripcion": "Varios colores",
+        "precio": 500,
+        "stock": 230,
+        "imagen": "https://embalados.cl/wp-content/uploads/2020/10/Base-pag-nueva-1.png",
+        "id": 18
+    },
+    {
+        "producto": "Cinta adhesiva",
+        "descripcion": "tipo escolar",
         "precio": 2000,
         "stock": 100,
-        "imagen": "https://www.stocktecnovisioncr.com/assets/Productos/High/6392775298796434ec7ce5f0f.jpg",
-        "id": 6
+        "imagen": "https://kakaomarket.cr/wp-content/uploads/2023/01/CINTA-ADHESIVA-CRISTALINO-PEGAFAN-12-36YD.jpg",
+        "id": 19
     },
     {
-        "producto": "Borrador maped",
-        "descripcion": "Blanco",
-        "precio": 1000,
-        "stock": 100,
-        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/276377/Borrador-Blanco-Maped-Softy-B2Uds-2-40850.jpg?v=637777173796100000",
-        "id": 7
-    },
-    {
-        "producto": "Compas Maped",
-        "descripcion": "Compas escolar",
-        "precio": 5000,
-        "stock": 50,
-        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/610855/Comp-s-Maped-Metal-Study-con-Lapiz-Caja-Plateada-2-piezas-1-42538.jpg?v=638518162101000000",
-        "id": 8
-    },
-    {
-        "producto": "Pegamento Pritt",
-        "descripcion": "Pegante en barra",
-        "precio": 2000,
-        "stock": 100,
-        "imagen": "https://www.kukuma.eus/tmp/images/HTTPS___WWW.GRUPODESCOM.ES_IMATGES_42700_W_600_H_600_ADJUST_1_BG_FFFFFF_Q_90.PNG",
-        "id": 9
-    },
-    {
-        "producto": "Cartuchera",
-        "descripcion": "3 pisos",
-        "precio": 5000,
-        "stock": 100,
-        "imagen": "https://bunny-cdn.ventasxmayor.com/public/63468209218917919/1612463086417-sinttulo-130.jpg",
-        "id": 10
+        "producto": "Carpeta Simones",
+        "descripcion": "nro 3",
+        "precio": 15000,
+        "stock": 15,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_641452-MLA54512306366_032023-O.webp",
+        "id": 20
     }
 
 ]
