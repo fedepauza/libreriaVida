@@ -130,6 +130,10 @@ h1 {
     cursor: pointer;
 } 
 
+.buttonProducto:hover {
+    background-color: #d8a628;
+}
+
 .ticketFinal {
     display: flex;
     flex-direction: column;
