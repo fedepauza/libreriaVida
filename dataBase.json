@@ -1,0 +1,163 @@
+[
+    {
+        "producto": "Faber-castell",
+        "descripcion": "Lapices de colores x24",
+        "precio": 10000,
+        "stock": 100,
+        "imagen": "https://ss-static-01.esmsv.com/id/92679/productos/obtenerimagen/?id=5556&useDensity=false&width=1280&height=720&tipoEscala=contain",
+        "id": 1
+    },
+    {
+        "producto": "Tijera maped",
+        "descripcion": "Tijera escolar",
+        "precio": 2500,
+        "stock": 50,
+        "imagen": "https://shoppicture.ww-api.com/pretty_pict/v1/800x450/50x50/v1/commerce_pict/3908698/1732231873354_3403291/1.png",
+        "id": 2
+    },
+    {
+        "producto": "Lapicera bic",
+        "descripcion": "Trazo fino",
+        "precio": 1500,
+        "stock": 150,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/312/307/products/bic-presicion-azul-011-4ac3fc3274b6ce528516854928401873-1024-1024.png",
+        "id": 3
+    },
+    {
+        "producto": "Cuaderno",
+        "descripcion": "Cuaderno universitario",
+        "precio": 5000,
+        "stock": 200,
+        "imagen": "https://cdn.dimerc.cl/media/catalog/product/cache/1/thumbnail/x600/040ec09b1e35df139433887a97daa66f/c/l/cl_h380920_1.jpg",
+        "id": 4
+    },
+    {
+        "producto": "Corrector",
+        "descripcion": "Corrector liquido",
+        "precio": 3000,
+        "stock": 100,
+        "imagen": "https://www.verquiperu.com/cdn/shop/files/WQFQFQW_800x.jpg?v=1688524571",
+        "id": 5
+    },
+    {
+        "producto": "Regla",
+        "descripcion": "Regla de 30cm",
+        "precio": 2000,
+        "stock": 100,
+        "imagen": "https://www.stocktecnovisioncr.com/assets/Productos/High/6392775298796434ec7ce5f0f.jpg",
+        "id": 6
+    },
+    {
+        "producto": "Borrador maped",
+        "descripcion": "Blanco",
+        "precio": 1000,
+        "stock": 100,
+        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/276377/Borrador-Blanco-Maped-Softy-B2Uds-2-40850.jpg?v=637777173796100000",
+        "id": 7
+    },
+    {
+        "producto": "Compas Maped",
+        "descripcion": "Compas escolar",
+        "precio": 5000,
+        "stock": 50,
+        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/610855/Comp-s-Maped-Metal-Study-con-Lapiz-Caja-Plateada-2-piezas-1-42538.jpg?v=638518162101000000",
+        "id": 8
+    },
+    {
+        "producto": "Pegamento Pritt",
+        "descripcion": "Pegante en barra",
+        "precio": 2000,
+        "stock": 100,
+        "imagen": "https://www.kukuma.eus/tmp/images/HTTPS___WWW.GRUPODESCOM.ES_IMATGES_42700_W_600_H_600_ADJUST_1_BG_FFFFFF_Q_90.PNG",
+        "id": 9
+    },
+    {
+        "producto": "Cartuchera",
+        "descripcion": "3 pisos",
+        "precio": 5000,
+        "stock": 100,
+        "imagen": "https://bunny-cdn.ventasxmayor.com/public/63468209218917919/1612463086417-sinttulo-130.jpg",
+        "id": 10
+    },
+    {
+        "producto": "Faber-castell",
+        "descripcion": "Lapices de colores x24",
+        "precio": 10000,
+        "stock": 100,
+        "imagen": "https://ss-static-01.esmsv.com/id/92679/productos/obtenerimagen/?id=5556&useDensity=false&width=1280&height=720&tipoEscala=contain",
+        "id": 1
+    },
+    {
+        "producto": "Tijera maped",
+        "descripcion": "Tijera escolar",
+        "precio": 2500,
+        "stock": 50,
+        "imagen": "https://shoppicture.ww-api.com/pretty_pict/v1/800x450/50x50/v1/commerce_pict/3908698/1732231873354_3403291/1.png",
+        "id": 2
+    },
+    {
+        "producto": "Lapicera bic",
+        "descripcion": "Trazo fino",
+        "precio": 1500,
+        "stock": 150,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/312/307/products/bic-presicion-azul-011-4ac3fc3274b6ce528516854928401873-1024-1024.png",
+        "id": 3
+    },
+    {
+        "producto": "Cuaderno",
+        "descripcion": "Cuaderno universitario",
+        "precio": 5000,
+        "stock": 200,
+        "imagen": "https://cdn.dimerc.cl/media/catalog/product/cache/1/thumbnail/x600/040ec09b1e35df139433887a97daa66f/c/l/cl_h380920_1.jpg",
+        "id": 4
+    },
+    {
+        "producto": "Corrector",
+        "descripcion": "Corrector liquido",
+        "precio": 3000,
+        "stock": 100,
+        "imagen": "https://www.verquiperu.com/cdn/shop/files/WQFQFQW_800x.jpg?v=1688524571",
+        "id": 5
+    },
+    {
+        "producto": "Regla",
+        "descripcion": "Regla de 30cm",
+        "precio": 2000,
+        "stock": 100,
+        "imagen": "https://www.stocktecnovisioncr.com/assets/Productos/High/6392775298796434ec7ce5f0f.jpg",
+        "id": 6
+    },
+    {
+        "producto": "Borrador maped",
+        "descripcion": "Blanco",
+        "precio": 1000,
+        "stock": 100,
+        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/276377/Borrador-Blanco-Maped-Softy-B2Uds-2-40850.jpg?v=637777173796100000",
+        "id": 7
+    },
+    {
+        "producto": "Compas Maped",
+        "descripcion": "Compas escolar",
+        "precio": 5000,
+        "stock": 50,
+        "imagen": "https://walmartcr.vtexassets.com/arquivos/ids/610855/Comp-s-Maped-Metal-Study-con-Lapiz-Caja-Plateada-2-piezas-1-42538.jpg?v=638518162101000000",
+        "id": 8
+    },
+    {
+        "producto": "Pegamento Pritt",
+        "descripcion": "Pegante en barra",
+        "precio": 2000,
+        "stock": 100,
+        "imagen": "https://www.kukuma.eus/tmp/images/HTTPS___WWW.GRUPODESCOM.ES_IMATGES_42700_W_600_H_600_ADJUST_1_BG_FFFFFF_Q_90.PNG",
+        "id": 9
+    },
+    {
+        "producto": "Cartuchera",
+        "descripcion": "3 pisos",
+        "precio": 5000,
+        "stock": 100,
+        "imagen": "https://bunny-cdn.ventasxmayor.com/public/63468209218917919/1612463086417-sinttulo-130.jpg",
+        "id": 10
+    }
+
+]
